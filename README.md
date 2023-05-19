@@ -20,7 +20,7 @@ Open a terminal or command prompt and navigate to the project directory.
 Run the following command to execute the application:
 
 Copy code
-python dice_roll.py
+python diceroll.py
 The application will prompt you to enter the number of dice you want to roll. Type in the desired number and press Enter.
 
 The program will simulate the rolling of the dice and display the results using graphical art.
